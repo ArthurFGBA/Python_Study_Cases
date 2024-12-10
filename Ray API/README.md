@@ -1,6 +1,6 @@
 # Ray Formula 1
 
-Este código foi escrito por meio da interface do Jupyter notebook, para utilizaço recomento o uso do jupyter
+Este código foi escrito por meio da interface do Jupyter notebooks, para utilizaço recomento o uso do jupyter
 ou através do visual studio code.
 
 Para a extração dos dados utilizei a documentação disponibilizada pela propria google, oque facilitou a confecção
